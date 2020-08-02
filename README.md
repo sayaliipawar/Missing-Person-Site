@@ -8,17 +8,17 @@ Missing person site made using python, tkinter ,sqlite database to find and repo
 5)If anyone finds the person and repoets to the admin, admin adds his deatils to the database.</br>
 6)When a person is searched on the site, if person's details exist in the database (if added by admin),it is displayed as person found else not found.</br></br>
 
-**Results:**</br>
-1)Frontpage:</br>
-![frontpage](ScreenShots/frontpage.PNG)</br>
-2)Login:</br>
-![login page](ScreenShots/login.PNG)</br>
-3)Enter Details(By admin):</br>
-![Enter Details](ScreenShots/enterdetails.PNG)</br>
-4)When logged in user searches for missing person:</br>
-![find](ScreenShots/find.PNG)</br>
-5)If Person is **Found**:</br>
-![person found](ScreenShots/found.PNG)</br>
-6)Else if Person is **Not Found**:</br>
-![not foud](ScreenShots/notfound.png)</br>
+**Results:**</br></br>
+1)Frontpage:</br></br>
+![frontpage](ScreenShots/frontpage.PNG)</br></br>
+2)Login:</br></br>
+![login page](ScreenShots/login.PNG)</br></br>
+3)Enter Details(By admin):</br></br>
+![Enter Details](ScreenShots/enterdetails.PNG)</br></br>
+4)When logged in user searches for missing person:</br></br>
+![find](ScreenShots/find.PNG)</br></br>
+5)If Person is **Found**:</br></br>
+![person found](ScreenShots/found.PNG)</br></br>
+6)Else if Person is **Not Found**:</br></br>
+![not foud](ScreenShots/notfound.PNG)</br></br>
 
